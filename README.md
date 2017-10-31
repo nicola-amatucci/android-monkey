@@ -35,7 +35,7 @@ dependencies {
 Write a new Android Test Case (see the application module source code):
 
 
-``Java
+```Java
 package com.example.android.activityinstrumentation;
 
 import android.app.Instrumentation;
