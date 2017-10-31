@@ -13,7 +13,7 @@ To use the Android Monkey Library, just apply the plugin in your project.
 
 Add it in your root build.gradle at the end of repositories:
 
-``Groovy
+```Groovy
 allprojects {
     repositories {
 	...
@@ -24,7 +24,7 @@ allprojects {
 
 Add the dependency
 
-``Groovy
+```Groovy
 dependencies {
 	...
         compile 'com.github.nicola-amatucci:android-monkey:0.1'
